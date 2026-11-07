@@ -1,0 +1,8 @@
+model,params_M,size_MB,GMACs,cpu_latency_median_ms,test_macro_f1,macro_f1_ci95_low,macro_f1_ci95_high,accuracy,train_val_gap_pp,mcnemar_holm_p_vs_W2,verdict_vs_W2
+MobileNetV3-Small 1.0x,1.545,6.02,0.056,12.0,93.21,92.06,94.15,92.27,3.21,0.0005,W2 worse
+PP-LCNet 0.5x,0.633,2.50,0.043,9.4,92.63,91.46,93.64,91.37,4.29,0.1978,no significant difference
+WeedNet-w2 plain head (W1 ablation),0.513,2.07,0.044,11.1,91.82,90.52,92.97,90.90,1.88,0.3997,no significant difference
+WeedNet-w2 (W2 proposed),0.542,2.19,0.049,11.9,90.99,89.38,92.24,90.50,3.13,,
+ShuffleNetV2 0.5x,0.368,1.55,0.039,13.9,89.54,87.87,90.85,88.98,1.78,0.0080,W2 better
+SqueezeNet 1.1,0.736,2.83,0.265,14.9,89.52,87.96,90.70,88.20,3.47,0.0001,W2 better
+MobileNetV3-Small 0.5x,0.595,2.38,0.023,10.1,87.99,86.36,89.37,87.71,4.20,0.0000,W2 better

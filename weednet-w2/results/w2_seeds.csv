@@ -1,0 +1,4 @@
+seed,test_macro_f1,accuracy,rare_class_recall,tail_class_recall,val_macro_f1,kept_epoch,train_val_gap_pp
+42,90.99,90.50,91.39,93.62,91.11,40,3.13
+43,91.20,90.72,91.82,94.46,92.03,38,1.95
+44,91.68,91.21,92.74,94.54,92.56,46,3.26

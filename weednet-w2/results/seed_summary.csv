@@ -1,0 +1,5 @@
+model,seeds,test_macro_f1_mean,test_macro_f1_sd
+WeedNet-w2 (W2 proposed),42/43/44,91.29,0.36
+WeedNet-w2 plain head (W1 ablation),42/43/44,91.22,1.05
+MobileNetV3-Small 0.5x,42/43/44,88.25,0.64
+MobileNetV3-Small 1.0x,42/43/44,92.94,0.30
