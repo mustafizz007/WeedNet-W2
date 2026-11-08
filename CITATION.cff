@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code or model, please cite it as below."
+title: "WeedNet-w2: A Compact Attention-Equipped CNN for Weed Species Classification in Rice and Soybean Fields"
+type: software
+license: MIT
+date-released: 2026-11-08
+authors:
+  - family-names: Rahman
+    given-names: Mohammad Mostafizur
+    affiliation: "Metropolitan University, Sylhet, Bangladesh"
+  - family-names: Talukdar
+    given-names: Sabbir Ahmed
+    affiliation: "Metropolitan University, Sylhet, Bangladesh"
+  - family-names: Nubah
+    given-names: Mushrefa Chowdhury
+    affiliation: "Metropolitan University, Sylhet, Bangladesh"
+keywords:
+  - weed classification
+  - lightweight CNN
+  - self-attention
+  - precision agriculture
+  - MobileNetV3
+preferred-citation:
+  type: thesis
+  title: "WeedNet-w2: A Compact Attention-Equipped CNN for Weed Species Classification in Rice and Soybean Fields"
+  thesis-type: "B.Sc. thesis"
+  institution:
+    name: "Department of Computer Science and Engineering, Metropolitan University"
+    city: Sylhet
+    country: BD
+  year: 2026
+  authors:
+    - family-names: Rahman
+      given-names: Mohammad Mostafizur
+    - family-names: Talukdar
+      given-names: Sabbir Ahmed
+    - family-names: Nubah
+      given-names: Mushrefa Chowdhury
